@@ -1,0 +1,30 @@
+{
+  "name": "demo-node",
+  "version": "1.0.0",
+  "description": "<helllo nha>\r sdfsdfsdf\r sdfsdf",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fluorurine/expresstest.git"
+  },
+  "keywords": [
+    "express",
+    "test"
+  ],
+  "author": "Fluorurine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fluorurine/expresstest/issues"
+  },
+  "homepage": "https://github.com/Fluorurine/expresstest#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
